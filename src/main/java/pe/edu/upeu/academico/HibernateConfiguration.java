@@ -18,8 +18,10 @@ import org.springframework.orm.hibernate5.LocalSessionFactoryBean;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 import org.springframework.context.annotation.ComponentScan;
 
-
-
+/**
+ *
+ * @author USUARIO
+ */
 @ComponentScan("pe.edu.upeu.academico")
 @Configuration
 @EnableTransactionManagement
